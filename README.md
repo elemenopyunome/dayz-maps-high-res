@@ -6,7 +6,11 @@ High resolution map images for DayZ.
 
 | Map | File |
 |-----|------|
-| Chernarus | [chernarus.png](maps/chernarus.png) |
-| Enoch (Livonia) | [enoch.png](maps/enoch.png) |
-| Namalsk | [namalsk.png](maps/namalsk.png) |
-| Sakhal | [sakhal.png](maps/sakhal.png) |
+| Banov | [banov_overview.png](maps/banov_overview.png) |
+| Bitterroot | [bitterroot_overview.png](maps/bitterroot_overview.png) |
+| Chernarus | [chernarus_overview.png](maps/chernarus_overview.png) |
+| Deer Isle | [deerisle_overview.png](maps/deerisle_overview.png) |
+| Enoch (Livonia) | [enoch_overview.png](maps/enoch_overview.png) |
+| Namalsk | [namalsk_overview.png](maps/namalsk_overview.png) |
+| Pripyat | [pripyat_overview.png](maps/pripyat_overview.png) |
+| Sakhal | [sakhal_overview.png](maps/sakhal_overview.png) |
